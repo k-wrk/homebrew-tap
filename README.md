@@ -24,6 +24,7 @@ brew install <formula>
 | :--- | :--- | :--- | :--- |
 | **[`cinder`](https://github.com/k-wrk/cinder/)** | `1.0.1` | Interactive Terminal Utility for macOS Disk Cleanup | `brew install cinder` |
 | **[`sub-llama`](https://github.com/k-wrk/Sub-LLama)** | `1.0.0` | Local subtitle translator and video muxer using CTranslate2 | `brew install sub-llama` |
+| **[`tappub`](https://github.com/k-wrk/tappub)** | `1.0.0` | Agnostic CLI to publish and update Homebrew Tap formulas automatically | `brew install tappub` |
 
 ---
 
@@ -35,6 +36,7 @@ To update installed tools to the latest release:
 brew update
 brew upgrade cinder
 brew upgrade sub-llama
+brew upgrade tappub
 ```
 
 ---
