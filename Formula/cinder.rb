@@ -1,8 +1,8 @@
 class Cinder < Formula
   desc "Interactive Terminal Utility for macOS Disk Cleanup"
   homepage "https://github.com/k-wrk/cinder/"
-  url "https://github.com/k-wrk/cinder/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "571920945972abe24e7a2655fd88e7d541c34fecba81e46ecd33ec0e45ba3282"
+  url "https://github.com/k-wrk/Cinder/archive/refs/tags/v1.5.0.tar.gz"
+  sha256 "09c3fd642f5eab86dcade14754d296a3061cc5b0b31ef4b4ff759b3a60ead1d2"
   license "MIT"
 
   depends_on "go" => :build
