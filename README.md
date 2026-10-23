@@ -23,7 +23,7 @@ brew install <formula>
 | Formula | Version | Description | Install Command |
 | :--- | :--- | :--- | :--- |
 | **[`cinder`](https://github.com/k-wrk/Cinder)** | `1.5.2` | Interactive Terminal Utility for macOS Disk Cleanup | `brew install cinder` |
-| **[`php-sec`](https://github.com/k-wrk/php-sec)** | `0.1.0` | PHP/PHP-FPM and Nginx Security Audit and Automated Remediation CLI | `brew install php-sec` |
+| **[`php-sec`](https://github.com/k-wrk/php-sec)** | `0.1.1` | PHP/PHP-FPM and Nginx Security Audit and Automated Remediation CLI | `brew install php-sec` |
 | **[`sub-llama`](https://github.com/k-wrk/Sub-LLama)** | `1.0.0` | Local subtitle translator and video muxer using CTranslate2 | `brew install sub-llama` |
 | **[`tappub`](https://github.com/k-wrk/tappub)** | `1.0.0` | Agnostic CLI to publish and update Homebrew Tap formulas automatically | `brew install tappub` |
 
